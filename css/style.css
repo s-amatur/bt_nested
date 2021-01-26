@@ -1,0 +1,18 @@
+.header, .hero, .body, .bar, .footer{
+	margin-bottom: 25px;
+	background-color: grey;
+	padding: 20px 0;
+}
+.box{
+	margin-bottom: 15px;
+	min-height: 100px;
+	border: 10px solid indigo;
+	background-color: teal;
+	font-size: 25px;
+	font-weight: 700;
+	color: black;
+	text-align: center;
+}
+.b_tomato{
+	background-color: tomato;
+}
